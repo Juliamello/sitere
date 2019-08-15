@@ -1,0 +1,11 @@
+#backg{
+    background-image: url("re2.jpg")
+}
+body{
+    background-color: black
+}
+.jumbotron {
+    background-image: url("re2Claire.jpg") ;
+    width: 1000px;
+    height: 500px;
+}
